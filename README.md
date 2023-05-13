@@ -6,7 +6,7 @@ Edit your about page in `./content/about.md`
 
 Add, edit and remove your contents in `./content/blog` to generate the site pages.
 
-## Dev tools
+### Dev tools
 
 [Tailwind CSS](https://tailwindcss.com/)
 
@@ -22,6 +22,4 @@ Add, edit and remove your contents in `./content/blog` to generate the site page
 
 [Photo by Lex Sirikiat on Unsplash](https://unsplash.com/photos/J-4ozdP9EQ0)
 
----
 
-[Made by zummon](https://zummon.page/)

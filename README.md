@@ -1,4 +1,4 @@
-### [Codesandbox](https://codesandbox.io/p/github/zummon/drink-taster-nextjs/)
+
 
 - Change the site name in `./pages/_app.jsx`
 - Edit your home page in `./pages/index.jsx`
